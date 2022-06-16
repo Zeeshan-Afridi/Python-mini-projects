@@ -1,2 +1,2 @@
-# Python-mini-projects
-Python mini projects (Tasks) , Basic Python Programming
+# Python-mini-projects (Lab Tasks)
+Progrmming fundamentals basic lab tasks using python
